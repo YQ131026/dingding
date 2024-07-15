@@ -4,7 +4,7 @@
   https://open.dingtalk.com/document/orgapp/session-management-overview
 
 # 2.用法参考
-  go get github.com/zhangluya1987/dingding
+  go get github.com/YQ131026/dingding
 
 # 3.用法示例
 
@@ -12,7 +12,7 @@
 package main
 
 import (
-	"github.com/zhangluya1987/dingding"
+	"github.com/YQ131026/dingding"
 	"log"
 )
 
